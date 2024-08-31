@@ -10,5 +10,12 @@
  or git add ."""
 ## 4. commit the changes --> just press commit and publish automatically in the  github page
 """git commit -m "type message""""
-## 5. 
-
+## 5. create a .gitignore file in github
+## 6. create a LICENCE file in github for open source project/production
+## 7. to add stege, press + in source control
+## 8. git pull --> github changes comes to VScode
+## 9. create a shell script to execute list of commands automatically (for bash)
+'''create init_shell.sh'''
+## 10. To run a .sh file
+'''bash init_shell.sh'''
+## 11. 
