@@ -18,4 +18,4 @@
 '''create init_shell.sh'''
 ## 10. To run a .sh file
 '''bash init_shell.sh'''
-## 11. 
+## 11. activate the environment if not (bash init_shell.sh)
