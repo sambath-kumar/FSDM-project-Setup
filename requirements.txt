@@ -4,3 +4,5 @@ numpy
 ipykernel
 matplotlib.pyplot
 seaborn 
+mlflow
+
